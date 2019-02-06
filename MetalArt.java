@@ -18,13 +18,13 @@ public class MetalArt {
 		double lengthOfBase1;
 		double heightOfPyramid1;
 		double lengthOfBase2;
-		double  heightOfPyramid2;
+		double heightOfPyramid2;
 		double slantPyramidLength1;
 		double slantPyramidLength2;
 		double basePyramidArea1;
 		double basePyramidArea2;
-	    double  surfacePyramidArea1;
-		double  surfacePyramidArea2;
+	    	double surfacePyramidArea1;
+		double surfacePyramidArea2;
 		double prismSurfaceArea;
 		double prismHeight;
 		double prismWidth;
